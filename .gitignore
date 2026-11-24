@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.codeartsdoer/
+pip_install.log
+pip_install_err.log
+.env
